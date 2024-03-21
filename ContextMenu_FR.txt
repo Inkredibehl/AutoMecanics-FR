@@ -1,0 +1,4 @@
+ContextMenu_FR = {
+    ContextMenu_AutoMechanics = "S'entrainer à la Mécanique",
+    ContextMenu_AutoMechanics_UninstallAll = "Tout désinstaller",
+}
